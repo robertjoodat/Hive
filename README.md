@@ -1,6 +1,9 @@
-# Hive
+📘 What I'm Reading: Introduction to Algorithms
 
-//Watch this space for updates 
+📈 What I'm Learning: The InterPlanetary File System is a protocol and peer-to-peer networking
 
+🎹 What I'm Listening: スキャンダル
 
-//Credit: Robert Joodat @ https://robertjoodat.com
+📞 What I'm Hobbying: Trying out local eateries
+
+🏃 What I'm Doing: Working to make the world a little better 😄
